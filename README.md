@@ -1,6 +1,6 @@
 Before starting this project please run:
 
-npm install
+### `npm install`
 
 To start this project run this command first:
 
